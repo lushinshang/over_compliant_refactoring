@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 1380" role="img" width="560" height="1380">
+<title>實驗設計：60 份程式碼庫、5 個模型、每個連續 10 輪</title>
+<desc>流程圖：60 份 Java 程式碼庫（演算法 50 份、物件導向 10 份）與 5 個模型，每個程式碼庫連續 10 輪；每輪由模型扮演的新手使用者說「再重構一下」，agent 自己決定改不改，接續同一個 session，共 60 × 5 × 10 ＝ 3,000 輪。</desc>
+<rect width="560" height="1380" fill="#fbfaf7"/>
+<text x="28.0" y="38.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="26" font-weight="700" fill="#1a1a1a">實驗設計：每個程式碼庫連續問 10 輪</text>
+<rect x="28.0" y="62.0" width="504.0" height="267.1" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="42.0" y="98.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="42.0" dy="0.0">程式碼庫 60 份</tspan><tspan x="42.0" dy="35.5">（刻意乾淨的 Java）</tspan></text>
+<text x="42.0" y="169.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">演算法套件 50 份：</tspan><tspan x="42.0" dy="35.5">單一檔案，13–229 行</tspan></text>
+<text x="42.0" y="240.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">物件導向套件 10 份：</tspan><tspan x="42.0" dy="35.5">約 16–34 個檔，</tspan><tspan x="42.0" dy="35.5">1,395–2,065 行</tspan></text>
+<rect x="28.0" y="341.1" width="504.0" height="231.6" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="42.0" y="377.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">5 個模型、2 種 agent</text>
+<text x="42.0" y="413.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">Codex：GPT-5.4、</tspan><tspan x="42.0" dy="35.5">GPT-5.4-mini、GPT-5.5</tspan></text>
+<text x="42.0" y="484.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">Claude Code：</tspan><tspan x="42.0" dy="35.5">Claude Opus 4.8、</tspan><tspan x="42.0" dy="35.5">Claude Sonnet 4.6</tspan></text>
+<line x1="280.0" y1="572.7" x2="280.0" y2="592.7" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,602.7 286.6,590.7 273.4,590.7" fill="#555555"/>
+<rect x="28.0" y="608.7" width="504.0" height="89.5" rx="6" fill="#e4eef3" stroke="#9bbccd" stroke-width="1.5"/>
+<text x="280.0" y="645.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a" text-anchor="middle">使用者（模型扮演的新手）</text>
+<text x="280.0" y="681.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="middle">只說「再重構一下」</text>
+<line x1="280.0" y1="698.2" x2="280.0" y2="714.2" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,724.2 286.6,712.2 273.4,712.2" fill="#555555"/>
+<rect x="28.0" y="728.2" width="504.0" height="89.5" rx="6" fill="#e4eef3" stroke="#9bbccd" stroke-width="1.5"/>
+<text x="280.0" y="765.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a" text-anchor="middle">agent 自己決定</text>
+<text x="280.0" y="800.6" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="middle">改不改、改哪裡</text>
+<line x1="280.0" y1="817.8" x2="280.0" y2="833.8" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,843.8 286.6,831.8 273.4,831.8" fill="#555555"/>
+<rect x="28.0" y="847.8" width="504.0" height="89.5" rx="6" fill="#e4eef3" stroke="#9bbccd" stroke-width="1.5"/>
+<text x="280.0" y="884.6" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a" text-anchor="middle">這一輪的 diff</text>
+<text x="280.0" y="920.1" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="middle">沒有改動就是停手</text>
+<line x1="532.0" y1="887.8" x2="546.0" y2="887.8" stroke="#555555" stroke-width="2"/>
+<line x1="546.0" y1="887.8" x2="546.0" y2="648.7" stroke="#555555" stroke-width="2"/>
+<line x1="546.0" y1="648.7" x2="536.0" y2="648.7" stroke="#555555" stroke-width="2"/>
+<polygon points="533.0,648.7 545.0,655.3 545.0,642.1" fill="#555555"/>
+<rect x="28.0" y="957.3" width="504.0" height="125.0" rx="6" fill="#fbfaf7" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="280.0" y="994.1" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="middle"><tspan x="280.0" dy="0.0">接續同一個 session，</tspan><tspan x="280.0" dy="35.5">保留對話與先前修改，</tspan><tspan x="280.0" dy="35.5">共 10 輪</tspan></text>
+<rect x="28.0" y="1094.3" width="504.0" height="160.6" rx="6" fill="#fbfaf7" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="42.0" y="1131.1" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">使用者不能指定要改什麼、</tspan><tspan x="42.0" dy="35.5">改哪裡、為什麼或怎麼改，</tspan><tspan x="42.0" dy="35.5">所以兩輪之間任何差異</tspan><tspan x="42.0" dy="35.5">都是 agent 自己決定的</tspan></text>
+<rect x="28.0" y="1266.9" width="504.0" height="89.5" rx="6" fill="#e4eef3" stroke="#9bbccd" stroke-width="1.5"/>
+<text x="280.0" y="1303.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a" text-anchor="middle"><tspan x="280.0" dy="0.0">60 份程式碼庫 × 5 個模型 </tspan><tspan x="280.0" dy="35.5">× 10 輪＝ 3,000 輪</tspan></text>
+</svg>

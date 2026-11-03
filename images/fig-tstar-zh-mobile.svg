@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 890" role="img" width="560" height="890">
+<title>各模型第一次停手輪次 t* 的平均</title>
+<desc>點圖：第一次停手輪次 t* 的平均，橫軸為第 1 至 10 輪，第 1、2 輪標示為論文認為合理的停手輪次。演算法套件：Claude Opus 4.8 為 3.24、Claude Sonnet 4.6 約 5、三個 GPT 模型集中在接近第 10 輪；物件導向套件：Opus 4.8 約 7、Sonnet 4.6 約 6.6、三個 GPT 模型同樣接近終點。</desc>
+<rect width="560" height="890" fill="#fbfaf7"/>
+<text x="28.0" y="40.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="26" font-weight="700" fill="#1a1a1a">各模型第一次停手的輪次 t*（平均）</text>
+<rect x="28.0" y="72.0" width="28.0" height="20.0" rx="3" fill="#dcebd3"/>
+<text x="66.0" y="89.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">論文認為合理：第 1 或第 2 輪</text>
+<text x="28.0" y="134.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">演算法套件</text>
+<rect x="26.0" y="146.0" width="81.3" height="244.0" rx="3" fill="#dcebd3"/>
+<line x1="40.0" y1="146.0" x2="40.0" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="93.3" y1="146.0" x2="93.3" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="146.7" y1="146.0" x2="146.7" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="200.0" y1="146.0" x2="200.0" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="253.3" y1="146.0" x2="253.3" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="306.7" y1="146.0" x2="306.7" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="360.0" y1="146.0" x2="360.0" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="413.3" y1="146.0" x2="413.3" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="466.7" y1="146.0" x2="466.7" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="520.0" y1="146.0" x2="520.0" y2="390.0" stroke="#d9d4c6" stroke-width="1"/>
+<text x="28.0" y="174.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Opus 4.8</text>
+<line x1="28.0" y1="208.0" x2="532.0" y2="208.0" stroke="#e4dfd2" stroke-width="1"/>
+<circle cx="159.5" cy="208.0" r="11" fill="#2f6f8f"/>
+<text x="179.5" y="215.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">3.24</text>
+<text x="28.0" y="258.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Sonnet 4.6</text>
+<line x1="28.0" y1="292.0" x2="532.0" y2="292.0" stroke="#e4dfd2" stroke-width="1"/>
+<circle cx="253.3" cy="292.0" r="11" fill="#2f6f8f"/>
+<text x="273.3" y="299.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">約 5</text>
+<text x="28.0" y="342.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">三個 GPT 模型</text>
+<line x1="28.0" y1="376.0" x2="532.0" y2="376.0" stroke="#e4dfd2" stroke-width="1"/>
+<circle cx="520.0" cy="376.0" r="11" fill="#fbfaf7" stroke="#b5532f" stroke-width="3"/>
+<text x="498.0" y="383.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="end">集中在接近第 10 輪</text>
+<text x="40.0" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">1</text>
+<text x="93.3" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">2</text>
+<text x="146.7" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">3</text>
+<text x="200.0" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">4</text>
+<text x="253.3" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">5</text>
+<text x="306.7" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">6</text>
+<text x="360.0" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">7</text>
+<text x="413.3" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">8</text>
+<text x="466.7" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">9</text>
+<text x="520.0" y="416.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">10</text>
+<text x="28.0" y="468.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">物件導向套件</text>
+<rect x="26.0" y="480.0" width="81.3" height="244.0" rx="3" fill="#dcebd3"/>
+<line x1="40.0" y1="480.0" x2="40.0" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="93.3" y1="480.0" x2="93.3" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="146.7" y1="480.0" x2="146.7" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="200.0" y1="480.0" x2="200.0" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="253.3" y1="480.0" x2="253.3" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="306.7" y1="480.0" x2="306.7" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="360.0" y1="480.0" x2="360.0" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="413.3" y1="480.0" x2="413.3" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="466.7" y1="480.0" x2="466.7" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<line x1="520.0" y1="480.0" x2="520.0" y2="724.0" stroke="#d9d4c6" stroke-width="1"/>
+<text x="28.0" y="508.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Opus 4.8</text>
+<line x1="28.0" y1="542.0" x2="532.0" y2="542.0" stroke="#e4dfd2" stroke-width="1"/>
+<circle cx="360.0" cy="542.0" r="11" fill="#2f6f8f"/>
+<text x="380.0" y="549.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">約 7</text>
+<text x="28.0" y="592.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Sonnet 4.6</text>
+<line x1="28.0" y1="626.0" x2="532.0" y2="626.0" stroke="#e4dfd2" stroke-width="1"/>
+<circle cx="338.7" cy="626.0" r="11" fill="#2f6f8f"/>
+<text x="358.7" y="633.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">約 6.6</text>
+<text x="28.0" y="676.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">三個 GPT 模型</text>
+<line x1="28.0" y1="710.0" x2="532.0" y2="710.0" stroke="#e4dfd2" stroke-width="1"/>
+<circle cx="520.0" cy="710.0" r="11" fill="#fbfaf7" stroke="#b5532f" stroke-width="3"/>
+<text x="498.0" y="717.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="end">集中在接近第 10 輪</text>
+<text x="40.0" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">1</text>
+<text x="93.3" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">2</text>
+<text x="146.7" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">3</text>
+<text x="200.0" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">4</text>
+<text x="253.3" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">5</text>
+<text x="306.7" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">6</text>
+<text x="360.0" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">7</text>
+<text x="413.3" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">8</text>
+<text x="466.7" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">9</text>
+<text x="520.0" y="750.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555" text-anchor="middle">10</text>
+<text x="28.0" y="786.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555">橫軸：第一次零改動的輪次</text>
+<circle cx="40.0" cy="822.0" r="9" fill="#fbfaf7" stroke="#b5532f" stroke-width="3"/>
+<text x="60.0" y="829.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555"><tspan x="60.0" dy="0.0">空心圈：論文只寫「接近第 10 輪」，</tspan><tspan x="60.0" dy="35.5">沒有給個別平均</tspan></text>
+</svg>

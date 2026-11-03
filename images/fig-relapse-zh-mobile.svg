@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 1390" role="img" width="560" height="1390">
+<title>停手後的累計改動與說不用改仍動手的比例</title>
+<desc>長條圖（演算法套件）：左為停手後累計改動 S2，Claude Opus 4.8 為 6.69 倍、Sonnet 4.6 為 1.44 倍、GPT-5.5 為 0.40 倍、GPT-5.4-mini 為 0.56 倍，GPT-5.4 沒有可量值；右為宣告不用改的輪次中同一輪仍改動的比例，Opus 4.8 為 24.3%、Sonnet 4.6 為 36.0%、GPT-5.5 與 GPT-5.4-mini 各為 4.0%、GPT-5.4 為 16.0%；另列物件導向套件中 Opus 4.8 為 71.7%。</desc>
+<rect width="560" height="1390" fill="#fbfaf7"/>
+<text x="28.0" y="40.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="26" font-weight="700" fill="#1a1a1a"><tspan x="28.0" dy="0.0">說停了又改：停手後的改動量，</tspan><tspan x="28.0" dy="38.5">與說不用改仍動手的比例</tspan><tspan x="28.0" dy="38.5">（演算法套件）</tspan></text>
+<text x="28.0" y="168.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">S2：停手後累計改動</text>
+<text x="28.0" y="200.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555">（原程式碼的倍數）</text>
+<text x="28.0" y="244.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Opus 4.8</text>
+<rect x="28.0" y="254.0" width="267.6" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="305.6" y="280.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">6.69</text>
+<text x="28.0" y="326.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Sonnet 4.6</text>
+<rect x="28.0" y="336.0" width="57.6" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="95.6" y="362.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">1.44</text>
+<text x="28.0" y="408.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.5</text>
+<rect x="28.0" y="418.0" width="16.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="54.0" y="444.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">0.40</text>
+<text x="28.0" y="490.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.4-mini</text>
+<rect x="28.0" y="500.0" width="22.4" height="34.0" rx="3" fill="#b5532f"/>
+<text x="60.4" y="526.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">0.56</text>
+<text x="28.0" y="572.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.4</text>
+<text x="28.0" y="612.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-style="italic" fill="#555555">從未在第 10 輪前停手，無可量值</text>
+<text x="28.0" y="676.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">S3：宣告不用改的輪次中，</text>
+<text x="28.0" y="708.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555">同一輪仍動手的比例</text>
+<text x="28.0" y="752.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Opus 4.8</text>
+<rect x="28.0" y="762.0" width="170.1" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="208.1" y="788.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">24.3%</text>
+<text x="28.0" y="834.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Sonnet 4.6</text>
+<rect x="28.0" y="844.0" width="252.0" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="290.0" y="870.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">36.0%</text>
+<text x="28.0" y="916.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.5</text>
+<rect x="28.0" y="926.0" width="28.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="66.0" y="952.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">4.0%</text>
+<text x="28.0" y="998.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.4-mini</text>
+<rect x="28.0" y="1008.0" width="28.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="66.0" y="1034.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">4.0%</text>
+<text x="28.0" y="1080.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.4</text>
+<rect x="28.0" y="1090.0" width="112.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="150.0" y="1116.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">16.0%</text>
+<text x="28.0" y="1162.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555">物件導向套件：Claude Opus 4.8</text>
+<rect x="28.0" y="1172.0" width="372.8" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="410.8" y="1198.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">71.7%</text>
+<line x1="28.0" y1="1228.0" x2="532.0" y2="1228.0" stroke="#d9d4c6" stroke-width="1"/>
+<text x="28.0" y="1262.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="28.0" dy="0.0">Claude Opus 4.8 在演算法套件上</tspan><tspan x="28.0" dy="35.5">平均第 3.24 輪停手，是所有模型中</tspan><tspan x="28.0" dy="35.5">最早的，停手後的累計改動</tspan><tspan x="28.0" dy="35.5">卻最多。</tspan></text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 1290" role="img" width="560" height="1290">
+<title>四個研究問題對應的訊號與章節</title>
+<desc>對照圖：RQ1「agent 要幾輪才停手」看 t*，在第五節；RQ2「停手之前改了多少程式碼」看 S1，在第五節；RQ3「停手之後會不會維持停手」看 S2 與 S3，在第六節；RQ4「多出來的輪次產生什麼樣的改動」看 RefDiff 的改動分類與 S4 至 S6，在第七節。</desc>
+<rect width="560" height="1290" fill="#fbfaf7"/>
+<text x="24.0" y="44.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="26" font-weight="700" fill="#1a1a1a"><tspan x="24.0" dy="0.0">四個研究問題對應的訊號與章節</tspan></text>
+<rect x="24.0" y="74.0" width="20.0" height="20.0" rx="4" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="52.0" y="92.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="22" font-weight="700" fill="#555555"><tspan x="52.0" dy="0.0">研究問題</tspan></text>
+<rect x="162.0" y="74.0" width="20.0" height="20.0" rx="4" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="190.0" y="92.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="22" font-weight="700" fill="#555555"><tspan x="190.0" dy="0.0">對應的訊號</tspan></text>
+<rect x="322.0" y="74.0" width="20.0" height="20.0" rx="4" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="350.0" y="92.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="22" font-weight="700" fill="#555555"><tspan x="350.0" dy="0.0">在哪一節</tspan></text>
+<rect x="16.0" y="124.0" width="528.0" height="407.2" rx="10" fill="#f6f4ee" stroke="#d8d3c4" stroke-width="1.2"/>
+<rect x="26.0" y="136.0" width="508.0" height="143.6" rx="8" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5"/>
+<rect x="26.0" y="136.0" width="508.0" height="83.6" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="171.6" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">RQ1</tspan></text>
+<text x="40.0" y="201.6" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">agent 要幾輪才停手？</tspan></text>
+<rect x="46.0" y="231.6" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="260.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">t*（第一次停手的輪次）</tspan></text>
+<rect x="26.0" y="289.6" width="508.0" height="143.6" rx="8" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5"/>
+<rect x="26.0" y="289.6" width="508.0" height="83.6" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="325.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">RQ2</tspan></text>
+<text x="40.0" y="355.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">停手之前改了多少程式碼？</tspan></text>
+<rect x="46.0" y="385.2" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="414.1" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">S1（收斂前改動量）</tspan></text>
+<line x1="280.0" y1="437.2" x2="280.0" y2="456.2" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,467.2 286.0,456.2 274.0,456.2" fill="#555555"/>
+<rect x="26.0" y="471.2" width="508.0" height="52.0" rx="8" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="40.0" y="505.6" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">五、結果一：停得太晚</tspan></text>
+<rect x="16.0" y="547.2" width="528.0" height="303.6" rx="10" fill="#f6f4ee" stroke="#d8d3c4" stroke-width="1.2"/>
+<rect x="26.0" y="559.2" width="508.0" height="193.6" rx="8" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5"/>
+<rect x="26.0" y="559.2" width="508.0" height="83.6" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="594.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">RQ3</tspan></text>
+<text x="40.0" y="624.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">停手之後會不會維持停手？</tspan></text>
+<rect x="46.0" y="654.8" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="683.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">S2（收斂後修改）</tspan></text>
+<rect x="46.0" y="704.8" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="733.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">S3（口頭拒絕仍修改率）</tspan></text>
+<line x1="280.0" y1="756.8" x2="280.0" y2="775.8" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,786.8 286.0,775.8 274.0,775.8" fill="#555555"/>
+<rect x="26.0" y="790.8" width="508.0" height="52.0" rx="8" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="40.0" y="825.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">六、結果二：說停了，又改了</tspan></text>
+<rect x="16.0" y="866.8" width="528.0" height="403.6" rx="10" fill="#f6f4ee" stroke="#d8d3c4" stroke-width="1.2"/>
+<rect x="26.0" y="878.8" width="508.0" height="293.6" rx="8" fill="#fffdf8" stroke="#c9c3b4" stroke-width="1.5"/>
+<rect x="26.0" y="878.8" width="508.0" height="83.6" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="914.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">RQ4</tspan></text>
+<text x="40.0" y="944.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">多出來的輪次，產生什麼樣的改動？</tspan></text>
+<rect x="46.0" y="974.4" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="1003.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">RefDiff 的改動分類</tspan></text>
+<rect x="46.0" y="1024.4" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="1053.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">S4 功能回滾</tspan></text>
+<rect x="46.0" y="1074.4" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="1103.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">S5 重新實作迴圈</tspan></text>
+<rect x="46.0" y="1124.4" width="468.0" height="42.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="60.0" y="1153.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="60.0" dy="0.0">S6 修補區域重複率</tspan></text>
+<line x1="280.0" y1="1176.4" x2="280.0" y2="1195.4" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,1206.4 286.0,1195.4 274.0,1195.4" fill="#555555"/>
+<rect x="26.0" y="1210.4" width="508.0" height="52.0" rx="8" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="40.0" y="1244.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a"><tspan x="40.0" dy="0.0">七、結果三：多出來的改動是什麼</tspan></text>
+</svg>

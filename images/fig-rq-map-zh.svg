@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 598" role="img" width="900" height="598">
+<title>四個研究問題對應的訊號與章節</title>
+<desc>對照圖：RQ1「agent 要幾輪才停手」看 t*，在第五節；RQ2「停手之前改了多少程式碼」看 S1，在第五節；RQ3「停手之後會不會維持停手」看 S2 與 S3，在第六節；RQ4「多出來的輪次產生什麼樣的改動」看 RefDiff 的改動分類與 S4 至 S6，在第七節。</desc>
+<rect width="900" height="598" fill="#fbfaf7"/>
+<text x="24.0" y="38.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="20" font-weight="700" fill="#1a1a1a"><tspan x="24.0" dy="0.0">四個研究問題對應的訊號與章節</tspan></text>
+<text x="34.0" y="80.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#555555"><tspan x="34.0" dy="0.0">研究問題</tspan></text>
+<text x="350.0" y="80.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#555555"><tspan x="350.0" dy="0.0">對應的訊號</tspan></text>
+<text x="666.0" y="80.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#555555"><tspan x="666.0" dy="0.0">在哪一節</tspan></text>
+<rect x="20.0" y="98.0" width="270.0" height="73.2" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="34.0" y="128.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="34.0" dy="0.0">RQ1</tspan></text>
+<text x="34.0" y="154.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="34.0" dy="0.0">agent 要幾輪才停手？</tspan></text>
+<rect x="336.0" y="106.6" width="270.0" height="56.0" rx="8" fill="#f6f4ee" stroke="#6a5aa0" stroke-width="1.2"/>
+<rect x="346.0" y="116.6" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="140.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">t*（第一次停手的輪次）</tspan></text>
+<line x1="294.0" y1="134.6" x2="321.0" y2="134.6" stroke="#555555" stroke-width="2"/>
+<polygon points="332.0,134.6 321.0,128.6 321.0,140.6" fill="#555555"/>
+<rect x="20.0" y="185.2" width="270.0" height="73.2" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="34.0" y="215.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="34.0" dy="0.0">RQ2</tspan></text>
+<text x="34.0" y="241.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="34.0" dy="0.0">停手之前改了多少程式碼？</tspan></text>
+<rect x="336.0" y="193.8" width="270.0" height="56.0" rx="8" fill="#f6f4ee" stroke="#6a5aa0" stroke-width="1.2"/>
+<rect x="346.0" y="203.8" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="227.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">S1（收斂前改動量）</tspan></text>
+<line x1="294.0" y1="221.8" x2="321.0" y2="221.8" stroke="#555555" stroke-width="2"/>
+<polygon points="332.0,221.8 321.0,215.8 321.0,227.8" fill="#555555"/>
+<rect x="20.0" y="285.8" width="270.0" height="73.2" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="34.0" y="316.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="34.0" dy="0.0">RQ3</tspan></text>
+<text x="34.0" y="342.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="34.0" dy="0.0">停手之後會不會維持停手？</tspan></text>
+<rect x="336.0" y="272.4" width="270.0" height="100.0" rx="8" fill="#f6f4ee" stroke="#6a5aa0" stroke-width="1.2"/>
+<rect x="346.0" y="282.4" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="306.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">S2（收斂後修改）</tspan></text>
+<rect x="346.0" y="326.4" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="350.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">S3（口頭拒絕仍修改率）</tspan></text>
+<line x1="294.0" y1="322.4" x2="321.0" y2="322.4" stroke="#555555" stroke-width="2"/>
+<polygon points="332.0,322.4 321.0,316.4 321.0,328.4" fill="#555555"/>
+<rect x="20.0" y="431.2" width="270.0" height="98.4" rx="8" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="34.0" y="461.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="34.0" dy="0.0">RQ4</tspan></text>
+<text x="34.0" y="487.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="34.0" dy="0.0">多出來的輪次，</tspan><tspan x="34.0" dy="25.2">產生什麼樣的改動？</tspan></text>
+<rect x="336.0" y="386.4" width="270.0" height="188.0" rx="8" fill="#f6f4ee" stroke="#6a5aa0" stroke-width="1.2"/>
+<rect x="346.0" y="396.4" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="420.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">RefDiff 的改動分類</tspan></text>
+<rect x="346.0" y="440.4" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="464.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">S4 功能回滾</tspan></text>
+<rect x="346.0" y="484.4" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="508.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">S5 重新實作迴圈</tspan></text>
+<rect x="346.0" y="528.4" width="250.0" height="36.0" rx="8" fill="#e8e4f2" stroke="#6a5aa0" stroke-width="1.5"/>
+<text x="358.0" y="552.3" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" fill="#1a1a1a"><tspan x="358.0" dy="0.0">S6 修補區域重複率</tspan></text>
+<line x1="294.0" y1="480.4" x2="321.0" y2="480.4" stroke="#555555" stroke-width="2"/>
+<polygon points="332.0,480.4 321.0,474.4 321.0,486.4" fill="#555555"/>
+<rect x="652.0" y="98.0" width="228.0" height="160.4" rx="8" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="666.0" y="171.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="666.0" dy="0.0">五、結果一：</tspan><tspan x="666.0" dy="25.2">停得太晚</tspan></text>
+<line x1="610.0" y1="134.6" x2="637.0" y2="134.6" stroke="#555555" stroke-width="2"/>
+<polygon points="648.0,134.6 637.0,128.6 637.0,140.6" fill="#555555"/>
+<line x1="610.0" y1="221.8" x2="637.0" y2="221.8" stroke="#555555" stroke-width="2"/>
+<polygon points="648.0,221.8 637.0,215.8 637.0,227.8" fill="#555555"/>
+<rect x="652.0" y="272.4" width="228.0" height="100.0" rx="8" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="666.0" y="315.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="666.0" dy="0.0">六、結果二：</tspan><tspan x="666.0" dy="25.2">說停了，又改了</tspan></text>
+<line x1="610.0" y1="322.4" x2="637.0" y2="322.4" stroke="#555555" stroke-width="2"/>
+<polygon points="648.0,322.4 637.0,316.4 637.0,328.4" fill="#555555"/>
+<rect x="652.0" y="386.4" width="228.0" height="188.0" rx="8" fill="#e3eddc" stroke="#5b7f3a" stroke-width="1.5"/>
+<text x="666.0" y="473.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="700" fill="#1a1a1a"><tspan x="666.0" dy="0.0">七、結果三：</tspan><tspan x="666.0" dy="25.2">多出來的改動是什麼</tspan></text>
+<line x1="610.0" y1="480.4" x2="637.0" y2="480.4" stroke="#555555" stroke-width="2"/>
+<polygon points="648.0,480.4 637.0,474.4 637.0,486.4" fill="#555555"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 484" role="img" width="860" height="484">
+<title>六個訊號中前三個的時間軸示意</title>
+<desc>示意圖（非實際資料）：連續 10 輪的時間軸，第 1 至 4 輪有改動、第 5 輪第一次零改動（t*）、第 6、7、9、10 輪又有改動。S1 是 t* 之前的改動行數除以原程式碼行數，S2 是 t* 之後的改動行數除以原程式碼行數，S3 是某一輪說「不用再改」卻同一輪仍改了程式碼。</desc>
+<rect width="860" height="484" fill="#fbfaf7"/>
+<text x="24.0" y="38.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="19" font-weight="700" fill="#1a1a1a">六個訊號中的前三個：時間軸示意（非實際資料）</text>
+<rect x="53.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="88.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="129.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="164.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="205.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="240.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="281.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="316.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="357.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#ffffff" stroke="#555555" stroke-width="2.5" stroke-dasharray="5 4"/>
+<text x="392.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="middle">5</text>
+<rect x="433.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="468.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="509.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="544.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<rect x="585.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#ffffff" stroke="#555555" stroke-width="2.5" stroke-dasharray="5 4"/>
+<text x="620.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="middle">8</text>
+<rect x="661.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="696.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">9</text>
+<rect x="737.0" y="110.0" width="70.0" height="50.0" rx="5" fill="#2f6f8f"/>
+<text x="772.0" y="140.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">10</text>
+<text x="392.0" y="96.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="middle">t*</text>
+<text x="544.0" y="96.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#b5532f" text-anchor="middle">S3</text>
+<rect x="506.0" y="107.0" width="76.0" height="56.0" rx="7" fill="none" stroke="#b5532f" stroke-width="3"/>
+<line x1="53.0" y1="176.0" x2="351.0" y2="176.0" stroke="#2f6f8f" stroke-width="3"/>
+<line x1="53.0" y1="168.0" x2="53.0" y2="176.0" stroke="#2f6f8f" stroke-width="3"/>
+<line x1="351.0" y1="168.0" x2="351.0" y2="176.0" stroke="#2f6f8f" stroke-width="3"/>
+<line x1="433.0" y1="176.0" x2="807.0" y2="176.0" stroke="#2f6f8f" stroke-width="3"/>
+<line x1="433.0" y1="168.0" x2="433.0" y2="176.0" stroke="#2f6f8f" stroke-width="3"/>
+<line x1="807.0" y1="168.0" x2="807.0" y2="176.0" stroke="#2f6f8f" stroke-width="3"/>
+<text x="202.0" y="210.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="middle">S1</text>
+<text x="620.0" y="210.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="middle">S2</text>
+<text x="24.0" y="260.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a">S1：t* 之前的改動行數 ÷ 原程式碼行數</text>
+<text x="24.0" y="300.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a">S2：t* 之後的改動行數 ÷ 原程式碼行數</text>
+<text x="24.0" y="340.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a">t*：第一次零改動的輪次（第 5 輪）</text>
+<text x="24.0" y="380.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a">S3：第 7 輪說「不用再改」，同一輪仍然改了程式碼</text>
+<rect x="24.0" y="434.0" width="28.0" height="22.0" rx="4" fill="#2f6f8f"/>
+<text x="62.0" y="453.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a">有改動的輪次</text>
+<rect x="250.0" y="434.0" width="28.0" height="22.0" rx="4" fill="#ffffff" stroke="#555555" stroke-width="2.5" stroke-dasharray="5 4"/>
+<text x="288.0" y="453.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a">零改動的輪次（停手）</text>
+</svg>

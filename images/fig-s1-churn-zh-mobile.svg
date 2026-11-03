@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 600" role="img" width="560" height="600">
+<title>各模型停手前累計改動量長條圖</title>
+<desc>水平長條圖：演算法套件 50 個程式碼庫上，五個模型在第一次停止修改之前，累計改動行數相對原程式碼的倍數。Claude Sonnet 4.6 為 8.22，Claude Opus 4.8 為 9.41，GPT-5.5 為 9.52，GPT-5.4-mini 為 20.52，GPT-5.4 為 30.97；虛線標示 1 倍。</desc>
+<rect width="560" height="600" fill="#fbfaf7"/>
+<text x="28" y="40" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="26" font-weight="700" fill="#1a1a1a"><tspan x="28" dy="0">各模型停手前累計改動量（演算法套件，</tspan><tspan x="28" dy="36">單位：原程式碼的倍數）</tspan></text>
+<line x1="42.5" y1="108" x2="42.5" y2="590" stroke="#555555" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="38.5" y="98" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#555555">1 倍</text>
+<text x="28" y="142" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Sonnet 4.6</text>
+<rect x="28" y="152" width="119.2" height="34" fill="#2f6f8f" rx="3"/>
+<text x="157.2" y="178" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">8.22</text>
+<text x="28" y="234" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">Claude Opus 4.8</text>
+<rect x="28" y="244" width="136.4" height="34" fill="#2f6f8f" rx="3"/>
+<text x="174.4" y="270" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">9.41</text>
+<text x="28" y="326" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.5</text>
+<rect x="28" y="336" width="138.0" height="34" fill="#b5532f" rx="3"/>
+<text x="176.0" y="362" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">9.52</text>
+<text x="28" y="418" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.4-mini</text>
+<rect x="28" y="428" width="297.5" height="34" fill="#b5532f" rx="3"/>
+<text x="335.5" y="454" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">20.52</text>
+<text x="28" y="510" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">GPT-5.4</text>
+<rect x="28" y="520" width="449.1" height="34" fill="#b5532f" rx="3"/>
+<text x="487.1" y="546" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">30.97</text>
+</svg>

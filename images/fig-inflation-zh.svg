@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 406" role="img" width="860" height="406">
+<title>每個程式碼庫平均新增與刪除的結構節點</title>
+<desc>左右對稱長條圖（演算法套件）：每個程式碼庫平均新增與刪除的結構節點。Claude Opus 4.8 新增 42、刪除 7；Claude Sonnet 4.6 新增 17、刪除 4；GPT-5.5 新增 17、刪除 3；GPT-5.4-mini 新增 30、刪除 11；GPT-5.4 新增 48、刪除 16。每個模型新增都遠多於刪除。</desc>
+<rect width="860" height="406" fill="#fbfaf7"/>
+<text x="24.0" y="38.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="19" font-weight="700" fill="#1a1a1a">每個程式碼庫平均新增與刪除的結構節點（演算法套件）</text>
+<text x="190.0" y="108.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="end">Claude Opus 4.8</text>
+<rect x="323.0" y="84.0" width="49.0" height="34.0" rx="3" fill="#a9c8d8"/>
+<text x="315.0" y="109.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="end">−7</text>
+<rect x="372.0" y="84.0" width="294.0" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="674.0" y="109.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a">+42</text>
+<text x="190.0" y="162.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="end">Claude Sonnet 4.6</text>
+<rect x="344.0" y="138.0" width="28.0" height="34.0" rx="3" fill="#a9c8d8"/>
+<text x="336.0" y="163.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="end">−4</text>
+<rect x="372.0" y="138.0" width="119.0" height="34.0" rx="3" fill="#2f6f8f"/>
+<text x="499.0" y="163.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a">+17</text>
+<text x="190.0" y="216.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="end">GPT-5.5</text>
+<rect x="351.0" y="192.0" width="21.0" height="34.0" rx="3" fill="#e3bba9"/>
+<text x="343.0" y="217.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="end">−3</text>
+<rect x="372.0" y="192.0" width="119.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="499.0" y="217.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a">+17</text>
+<text x="190.0" y="270.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="end">GPT-5.4-mini</text>
+<rect x="295.0" y="246.0" width="77.0" height="34.0" rx="3" fill="#e3bba9"/>
+<text x="287.0" y="271.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="end">−11</text>
+<rect x="372.0" y="246.0" width="210.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="590.0" y="271.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a">+30</text>
+<text x="190.0" y="324.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#1a1a1a" text-anchor="end">GPT-5.4</text>
+<rect x="260.0" y="300.0" width="112.0" height="34.0" rx="3" fill="#e3bba9"/>
+<text x="252.0" y="325.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" text-anchor="end">−16</text>
+<rect x="372.0" y="300.0" width="336.0" height="34.0" rx="3" fill="#b5532f"/>
+<text x="716.0" y="325.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" font-weight="700" fill="#1a1a1a">+48</text>
+<line x1="372.0" y1="70.0" x2="372.0" y2="346.0" stroke="#1a1a1a" stroke-width="2"/>
+<text x="360.0" y="378.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#555555" text-anchor="end">← 刪除</text>
+<text x="384.0" y="378.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="17" fill="#555555">新增 →</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 1558" role="img" width="560" height="1558">
+<title>一頁看懂：實驗、六個訊號、三項結果與研究邊界</title>
+<desc>流程圖：60 份程式碼庫、5 個模型、每次 10 輪共 3,000 輪的實驗，產生六個訊號，得到三項結果（停得太晚、說停了又改、改動不是有名目的重構），最後是研究邊界（只測 Java、最壞情況的使用者、未驗證正確性、預印本）。</desc>
+<rect width="560" height="1558" fill="#fbfaf7"/>
+<text x="28.0" y="38.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="26" font-weight="700" fill="#1a1a1a">一頁看懂：實驗、訊號、三項結果、邊界</text>
+<rect x="28.0" y="62.0" width="504.0" height="231.6" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="280.0" y="98.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a" text-anchor="middle"><tspan x="280.0" dy="0.0">實驗：60 份刻意乾淨</tspan><tspan x="280.0" dy="35.5">的 Java 程式碼庫 × 5 個</tspan><tspan x="280.0" dy="35.5">模型 × 10 輪＝ 3,000 輪</tspan></text>
+<text x="280.0" y="205.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="middle"><tspan x="280.0" dy="0.0">使用者每輪只說</tspan><tspan x="280.0" dy="35.5">「再重構一下」，agent </tspan><tspan x="280.0" dy="35.5">自己決定要不要改</tspan></text>
+<line x1="280.0" y1="293.6" x2="280.0" y2="313.6" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,323.6 286.6,311.6 273.4,311.6" fill="#555555"/>
+<rect x="28.0" y="327.6" width="504.0" height="267.1" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="42.0" y="364.4" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">六個訊號</text>
+<text x="42.0" y="399.9" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">S1 停手前改動量　</tspan><tspan x="42.0" dy="35.5">S2 停手後改動量　</tspan><tspan x="42.0" dy="35.5">S3 說不用改仍動手</tspan></text>
+<text x="42.0" y="506.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="42.0" dy="0.0">S4 自己加了又刪　</tspan><tspan x="42.0" dy="35.5">S5 刪了又加回　</tspan><tspan x="42.0" dy="35.5">S6 重複改同一處</tspan></text>
+<line x1="280.0" y1="594.7" x2="280.0" y2="614.7" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,624.7 286.6,612.7 273.4,612.7" fill="#555555"/>
+<rect x="28.0" y="628.7" width="504.0" height="227.6" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="663.5" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">結果一：停得太晚</text>
+<text x="40.0" y="699.0" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">3,000 輪中只有 454 輪</tspan><tspan x="40.0" dy="35.5">沒有修改程式碼</tspan></text>
+<text x="40.0" y="770.1" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">停手前累計改動是</tspan><tspan x="40.0" dy="35.5">原程式碼的 8.22 至 </tspan><tspan x="40.0" dy="35.5">30.97 倍（演算法套件）</tspan></text>
+<rect x="28.0" y="870.3" width="504.0" height="227.6" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="905.1" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">結果二：說停了又改</text>
+<text x="40.0" y="940.6" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">Claude Opus 4.8 最早停手</tspan><tspan x="40.0" dy="35.5">（演算法套件平均</tspan><tspan x="40.0" dy="35.5">第 3.24 輪）</tspan></text>
+<text x="40.0" y="1047.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">停手後累計改動卻最多：</tspan><tspan x="40.0" dy="35.5">6.69 倍</tspan></text>
+<rect x="28.0" y="1111.9" width="504.0" height="192.1" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="40.0" y="1146.7" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" font-weight="700" fill="#1a1a1a">結果三：改的不是重構</text>
+<text x="40.0" y="1182.2" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a"><tspan x="40.0" dy="0.0">最大宗是歸不進任何</tspan><tspan x="40.0" dy="35.5">已知重構操作的編輯</tspan><tspan x="40.0" dy="35.5">（27.5% 至 52.4%）</tspan></text>
+<text x="40.0" y="1288.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a">新增結構遠多於刪除</text>
+<line x1="280.0" y1="1304.0" x2="280.0" y2="1324.0" stroke="#555555" stroke-width="2"/>
+<polygon points="280.0,1334.0 286.6,1322.0 273.4,1322.0" fill="#555555"/>
+<rect x="28.0" y="1338.0" width="504.0" height="196.1" rx="6" fill="#f7e9e1" stroke="#d8b3a0" stroke-width="1.5"/>
+<text x="280.0" y="1374.8" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="24" fill="#1a1a1a" text-anchor="middle"><tspan x="280.0" dy="0.0">邊界：只測 Java；</tspan><tspan x="280.0" dy="35.5">使用者是刻意設定的</tspan><tspan x="280.0" dy="35.5">最壞情況；沒有驗證改完</tspan><tspan x="280.0" dy="35.5">的程式是否仍然正確；</tspan><tspan x="280.0" dy="35.5">論文是預印本</tspan></text>
+</svg>
